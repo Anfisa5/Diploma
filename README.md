@@ -20,7 +20,7 @@
 
 3. Запустить контейнеры MySql, PostgreSQL и Node.js с помощью команды docker-compose up
 
-4. Запустить приложение с помощью команды java -jar ./artifacts/aqa-shop.jar
+4. Запустить приложение с помощью команды java -jar /artifacts/aqa-shop.jar
 
 5. Убедиться, что приложениe доступно по адресу: http://localhost:8080/
 
